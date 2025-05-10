@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Navbar/static/css/main.02af12a4.css",
+    "main.js": "/Navbar/static/js/main.96095eba.js",
+    "static/media/webPortfolio.jpg": "/Navbar/static/media/webPortfolio.fb8e6f51ba34b8136a00.jpg",
+    "static/media/booksearch.jpg": "/Navbar/static/media/booksearch.96192da5961e683a5dff.jpg",
+    "static/media/self.jpg": "/Navbar/static/media/self.13e424e1bdd500fd7d3b.jpg",
+    "static/media/profile.jpg": "/Navbar/static/media/profile.27056d2eecddeaf88c0b.jpg",
+    "static/media/prtfll.jpg": "/Navbar/static/media/prtfll.a7bdc7ae477cd5031d21.jpg",
+    "static/media/Simple-enrollment-Form.jpg": "/Navbar/static/media/Simple-enrollment-Form.44a45e06e5f3207a89f0.jpg",
+    "static/media/login.jpg": "/Navbar/static/media/login.c7d8c7eadc6bae6b5194.jpg",
+    "static/media/calculator.jpg": "/Navbar/static/media/calculator.677ef3dd58fffff9ab84.jpg",
+    "index.html": "/Navbar/index.html",
+    "main.02af12a4.css.map": "/Navbar/static/css/main.02af12a4.css.map",
+    "main.96095eba.js.map": "/Navbar/static/js/main.96095eba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02af12a4.css",
+    "static/js/main.96095eba.js"
+  ]
+}
