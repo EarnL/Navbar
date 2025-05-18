@@ -1,21 +1,14 @@
 {
   "files": {
-    "main.css": "/Navbar/static/css/main.6722da24.css",
-    "main.js": "/Navbar/static/js/main.6b7735e9.js",
-    "static/media/webPortfolio.jpg": "/Navbar/static/media/webPortfolio.fb8e6f51ba34b8136a00.jpg",
-    "static/media/booksearch.jpg": "/Navbar/static/media/booksearch.96192da5961e683a5dff.jpg",
+    "main.css": "/Navbar/static/css/main.4e9a2a9c.css",
+    "main.js": "/Navbar/static/js/main.a0dc0694.js",
     "static/media/self.jpg": "/Navbar/static/media/self.13e424e1bdd500fd7d3b.jpg",
-    "static/media/profile.jpg": "/Navbar/static/media/profile.27056d2eecddeaf88c0b.jpg",
-    "static/media/prtfll.jpg": "/Navbar/static/media/prtfll.a7bdc7ae477cd5031d21.jpg",
-    "static/media/Simple-enrollment-Form.jpg": "/Navbar/static/media/Simple-enrollment-Form.44a45e06e5f3207a89f0.jpg",
-    "static/media/login.jpg": "/Navbar/static/media/login.c7d8c7eadc6bae6b5194.jpg",
-    "static/media/calculator.jpg": "/Navbar/static/media/calculator.677ef3dd58fffff9ab84.jpg",
     "index.html": "/Navbar/index.html",
-    "main.6722da24.css.map": "/Navbar/static/css/main.6722da24.css.map",
-    "main.6b7735e9.js.map": "/Navbar/static/js/main.6b7735e9.js.map"
+    "main.4e9a2a9c.css.map": "/Navbar/static/css/main.4e9a2a9c.css.map",
+    "main.a0dc0694.js.map": "/Navbar/static/js/main.a0dc0694.js.map"
   },
   "entrypoints": [
-    "static/css/main.6722da24.css",
-    "static/js/main.6b7735e9.js"
+    "static/css/main.4e9a2a9c.css",
+    "static/js/main.a0dc0694.js"
   ]
 }
